@@ -1,0 +1,28 @@
+<html>
+
+<head>
+    <tittle>create an account</tittle>
+</head>
+
+<body>
+    <h1> create your account </h1><br/><br/>
+    sign up now to preview your dashboard and start tracking your blood pressure and BML.to run your fist panel ,visit a health tab location already
+    have an account? <mark>login</mark><br/><br/>
+    email
+    <input type="email" name="mail"/>
+        <br/><br/>
+        password
+        <input type="password" name="pwd"/>
+        conform password
+        <input type="password" name="pwd"/>
+              <br/><br/>
+              DOB
+              <input type="date"/>
+              GENDER
+              <input type="radio" name ="gender"/>male
+              <input type="radio" name ="gender"/>female
+              <br/><br/>
+              <input type="checkbox" /> i have read and accept the <br/>
+              <mark>HEALTH TAB TERMS & CONDITIONS</mark>
+              </body>
+                </html>
